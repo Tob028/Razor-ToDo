@@ -1,0 +1,6 @@
+/Users/tobiasbednar/Developer/BlazorToDo/obj/Debug/net7.0/BlazorToDo.csproj.AssemblyReference.cache
+/Users/tobiasbednar/Developer/BlazorToDo/obj/Debug/net7.0/BlazorToDo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tobiasbednar/Developer/BlazorToDo/obj/Debug/net7.0/BlazorToDo.AssemblyInfoInputs.cache
+/Users/tobiasbednar/Developer/BlazorToDo/obj/Debug/net7.0/BlazorToDo.AssemblyInfo.cs
+/Users/tobiasbednar/Developer/BlazorToDo/obj/Debug/net7.0/BlazorToDo.csproj.CoreCompileInputs.cache
+/Users/tobiasbednar/Developer/BlazorToDo/obj/Debug/net7.0/BlazorToDo.MvcApplicationPartsAssemblyInfo.cache

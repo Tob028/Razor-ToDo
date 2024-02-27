@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{8F50C5DC-D6C9-4650-A56D-9FF93CB99EB4}|https">
+  <MonoDevelop.Ide.ItemProperties.BlazorToDo PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Components/Pages/ToDo.razor">
+    <Files>
+      <File FileName="Program.cs" Line="12" Column="29" />
+      <File FileName="Components/App.razor" />
+      <File FileName="Components/Pages/ToDo.razor" Line="7" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlazorToDo" expanded="True">
+            <Node name="BlazorToDo" expanded="True">
+              <Node name="Components" expanded="True">
+                <Node name="Pages" expanded="True">
+                  <Node name="ToDo.razor" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
